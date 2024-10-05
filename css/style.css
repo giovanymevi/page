@@ -87,7 +87,7 @@ section{
     background-color: var(--white-alpha-25);
     border: 1px solid var(--white-alpha-40);
     min-height: calc(100vh - 70px);
-    border-radius: 1000px;
+    border-radius: 100px;
     backdrop-filter: var(--backdrop-filter-blur);
     display: none;
 }
